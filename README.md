@@ -1,3 +1,3 @@
-# awesome-crypto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-crypto
 
 An Awesome List About Everything Crypto Currency
