@@ -13,7 +13,7 @@ Your contributions to our [Awesome Cryptocurrencys List](README.md) are always w
     - Add the section title to Table of Contents.
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
-- Send a Pull Request with the reason why the library is awesome.
+- Send a Pull Request with the reason why the new link is awesome.
 
 ## Howto
 
