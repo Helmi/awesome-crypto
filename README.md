@@ -118,7 +118,7 @@ An Awesome List About Everything Crypto Currency.
 
 ## ICOs
 
-- [46% of Last Year’s ICOs Have Failed Already](https://news.bitcoin.com/46-last-years-icos-failed-already/): on Bitcoin News
+- [46% of Last Year’s ICOs Have Failed Already](https://news.bitcoin.com/46-last-years-icos-failed-already/) on Bitcoin News
 
 ## YouTube
 
