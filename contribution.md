@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Your contributions to our [Awesome Cryptocurrencys List](readme.md) are always welcome!
+Your contributions to our [Awesome Cryptocurrencys List](README.md) are always welcome!
 
 ## Guidelines
 
