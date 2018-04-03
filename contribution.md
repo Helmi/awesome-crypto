@@ -6,7 +6,7 @@ Your contributions to our [Awesome Cryptocurrencys List](README.md) are always w
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Add one link per Pull Request.
-- Add the link: `- [project-name](http://example.com/) - A short description ends with a period.`
+- Add the link: `- [link-title](http://example.com/) - A short description ends with a period.`
     - Keep descriptions concise.
 - Add a section if needed.
     - Add the section description.
