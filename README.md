@@ -1,4 +1,4 @@
-# Awesome Cryptocurrencys [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Crypt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An Awesome List About Everything Crypto Currency.
 
@@ -10,7 +10,7 @@ An Awesome List About Everything Crypto Currency.
 - [Wallets](#wallets)
 	- [Introduction and information](#introduction-and-information)
 	- [Single wallets](#single-wallets)
-- [Cryptocurrencys](#cryptocurrencys)
+- [Cryptocurrencies](#Cryptocurrencies)
 - [Exchanges & Broker](#exchanges---broker)
 - [Blockchain](#blockchain)
 - [Communitys](#communitys)
@@ -26,7 +26,7 @@ An Awesome List About Everything Crypto Currency.
 ## Introduction to Cryptocurrency
 
 - 📺  [Cryptocurrencies](https://www.youtube.com/watch?v=g6iDZspbRMg):  Introduction in Cryptocurrency, Bitcoin and Blockchain in Last Week  Tonight with John Oliver on YouTube (25 min.)
-- [Upfolio](https://www.upfolio.com/): Visual crypto guides for beginners about cryptocurrencys, blockchain, Bitcoin, Etherium with a good glossary.
+- [Upfolio](https://www.upfolio.com/): Visual crypto guides for beginners about Cryptocurrencies, blockchain, Bitcoin, Etherium with a good glossary.
 - [Cryptocurrency tutorial](https://neufund.org/ecosystem/tutorial/#tutorial-header_) by Neufund:  Very short and simple beginner guide about how to buy, store, send and spend cryptocurrencies like Bitcoin and Ether with the Coinbase App. (5 min. read)
 - [How to Trade Cryptocurrency For Beginners](https://cryptocurrencyfacts.com/how-to-trade-cryptocurrency-for-beginners/) by CryptoCurrency Facts:  More detailed guide about how to start trading cryptocurrencies like Bitcoin, Litecoin, and Ethereum with Coinbase (10 min. read)
 - [The Total Beginner's Guide to Cryptocurrency Trading](https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/) by Trading Heroes: Very good introduction in how to get started with cryptocurrency trading. Understand how coins like like Bitcoin, Litecoin and Ether work and also understand the risks. (20 min. read)
@@ -63,9 +63,9 @@ An Awesome List About Everything Crypto Currency.
 - [Exodus](https://www.exodus.io/): A multi-asset desktop wallet for Windows, Mac and Linux with exchange integration.
 - [Blockchain](https://www.blockchain.com/):  popular online Bitcoin Wallet
 
-## Cryptocurrencys
+## Cryptocurrencies
 
-- [Overview of top cryptocurrencies](https://github.com/kilimchoi/cryptocurrency): A list of popular cryptocurrencys. Each with a short description and pros and cons for every coin.
+- [Overview of top cryptocurrencies](https://github.com/kilimchoi/cryptocurrency): A list of popular Cryptocurrencies. Each with a short description and pros and cons for every coin.
 - [100 Cryptocurrencies Explained](https://www.upfolio.com/100-coins-explained): Explore Quick Summaries of Popular Cryptocurrencies
 - [Understanding Cryptocurrencies: Game of Thrones Edition ](https://masterthecrypto.com/understanding-cryptocurrencies-game-of-thrones/) on Master The Crypto: A simple way of understanding cryptocurrencies as told through the popular  TV series, Game of Thrones. Funny and informative.
 - [CoinMarketCap](https://coinmarketcap.com/): Overview of cryptocurrency market capitalizations and further information.
