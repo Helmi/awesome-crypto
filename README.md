@@ -1,4 +1,4 @@
-# Awesome Crypt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Crypto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An Awesome List About Everything Crypto Currency.
 
