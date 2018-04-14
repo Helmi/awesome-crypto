@@ -39,6 +39,7 @@ An Awesome List About Everything Crypto Currency.
 - [How to spot and avoid a bitcoin scam](https://www.finder.com/bitcoin-scams) by finder.com: Good article on how to avoid to get scammed with bitcoin or any other cryptocurrency. A must read for beginners!  (10 min. read)
 - [Lessons I've learned in my first months of trading CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/7snyex/lessons_ive_learned_in_my_first_months_of_trading/): Short overview of the experiences of a beginner.
 - [The Top 10 Mistakes Crypto Newcomers Make](https://medium.com/blockchannel/the-top-10-mistakes-crypto-newcomers-make-d3b75203dd6f) on BlockChannel: Good overview about mistakes you should avoid.
+- 🔊 [Coin Talk #16: The Rise and Fall of Kang & Lammer, America’s Worst Crypto Traders](https://medium.com/s/cointalk/coin-talk-16-the-rise-and-fall-of-kang-lammer-americas-worst-crypto-traders-8f32bcb08273): Episode of the Coin Talk podcast in which the hosts talk very honest about their experience, failure and learnings while their not very successful first year of trading with cryptocurrencies.
 
 ## Knowledge
 
