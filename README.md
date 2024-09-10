@@ -106,6 +106,7 @@ An Awesome List About Everything Crypto Currency.
 - [CCN](https://www.ccn.com/): Bitcoin, Ethereum, ICO, Blockchain & Cryptocurrency News
 - [Bitcoin Magazine](https://bitcoinmagazine.com/): Bitcoin and Blockchain News, Prices, Charts & Analysis
 - [Bitcoin.com News](https://news.bitcoin.com/)
+- [Crypto Digest Report](https://www.cryptodigestreport.com/): Stay Ahead in Crypto! Join thousands who trust our expert-curated newsletter for exclusive insights and market trends. 
 
 ## Statistics
 
