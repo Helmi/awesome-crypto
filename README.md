@@ -97,6 +97,7 @@ An Awesome List About Everything Crypto Currency.
 ## Tools
 
 - [Coiniverse](https://www.coiniverse.info/): Collection of cryptocurrency tools
+- [Ghostfolio](https://ghostfol.io/): Open source wealth management software to track cryptocurrency holdings across multiple platforms
 
 ## News
 
