@@ -101,6 +101,7 @@ An Awesome List About Everything Crypto Currency.
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. hive's remote mcp server guide (https://hiveintelligence.xyz/crypto-mcp).
+- [Deadhand Protocol](https://deadhandprotocol.com/): Dead man's switch for cryptocurrency seed phrases using Shamir's Secret Sharing. Automatically releases your crypto to beneficiaries after 90 days of inactivity.
 
 ## News
 
