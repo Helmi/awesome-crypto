@@ -55,6 +55,8 @@ An Awesome List About Everything Crypto Currency.
 - [Guide to Cryptocurrency Wallets: Why Do You Need Wallets?](https://masterthecrypto.com/guide-to-cryptocurrency-wallets/): This is a comprehensive guide to cryptocurrency wallets with a list of the different types of crypto wallets.
 - [Bitcoin Wallets Comparison](https://www.cryptocompare.com/wallets/#/overview) on CryptoCompare.com: Extensive list of wallets with ratings for anonymity, ease of use,  extra Services, supported coins and user ratings.
 - [The best way to track your crypto-portfolio](https://steemit.com/bitcoin/@pedrombraz/the-best-way-to-track-your-crypto-portfolio-review-2-0): Overview of desktop and mobile apps for crypto-portfolio tracking.
+- [Chartscout Trading Education](https://chartscout.io/trading-education) - Learn crypto chart patterns and technical analysis through interactive lessons and real-time examples
+
 
 ### Single wallets
 
@@ -101,6 +103,8 @@ An Awesome List About Everything Crypto Currency.
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. hive's remote mcp server guide (https://hiveintelligence.xyz/crypto-mcp).
+- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
+
 
 ## News
 
