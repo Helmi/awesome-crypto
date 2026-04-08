@@ -101,6 +101,8 @@ An Awesome List About Everything Crypto Currency.
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. hive's remote mcp server guide (https://hiveintelligence.xyz/crypto-mcp).
+- [bitcoinbottom.app](https://bitcoinbottom.app) - Aggregates 25 on-chain Bitcoin signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, NUPL, ETF flows) into a daily cycle bottom probability score. Free, no signup, updated twice daily.
+- [btcdca.app](https://btcdca.app) - Bitcoin DCA calculator comparing signal-timed entry timing vs. always-buy with fair capital normalization. Free, no signup.
 
 ## News
 
