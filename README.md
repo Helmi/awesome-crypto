@@ -100,6 +100,7 @@ An Awesome List About Everything Crypto Currency.
 - [Ghostfolio](https://ghostfol.io/): Open source wealth management software to track cryptocurrency holdings across multiple platforms
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
+- [CoinPaprika](https://coinpaprika.com/) - Crypto market data platform covering 12,000+ coins and 350+ exchanges. [REST API](https://api.coinpaprika.com) with tickers, OHLCV, and historical prices.
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. hive's remote mcp server guide (https://hiveintelligence.xyz/crypto-mcp).
 
 ## News
