@@ -78,6 +78,7 @@ An Awesome List About Everything Crypto Currency.
 - [TOP 40+ Bitcoin Exchange List](https://www.bestbitcoinexchange.io/): List of exchanges with user rating. There is a short description of each exchange and an overview about the pros and cons.
 - [List of exchanges](https://www.cryptocompare.com/exchanges/#/overview) on CryptoCompare.com: List of exchanges with a short description and user ratings.
 - [Coinbase](https://www.coinbase.com/): Very easy to use Exchange and Wallet for Bitcoin, Ethereum, Bitcoin Cash and Litecoin with Apps for many platforms and in multiple languages.
+- [EventTrader](https://cymetica.com/): AI-native crypto exchange with 200+ listings, CLOB orderbook, 10 AI market-making agents, and on-chain settlement on Base L2. [API](https://cymetica.com/openapi.json)
 
 ## Blockchain
 
