@@ -101,6 +101,7 @@ An Awesome List About Everything Crypto Currency.
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. hive's remote mcp server guide (https://hiveintelligence.xyz/crypto-mcp).
+- [Web3 Discover](https://web3-discover.vercel.app): Hand-vetted directory of currently-claimable web3 airdrops; deadline-sorted, every entry "last verified" stamped, no paid listings. Ships an MCP server and a paste-your-wallet eligibility checker.
 
 ## News
 
