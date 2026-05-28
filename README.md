@@ -78,6 +78,7 @@ An Awesome List About Everything Crypto Currency.
 - [TOP 40+ Bitcoin Exchange List](https://www.bestbitcoinexchange.io/): List of exchanges with user rating. There is a short description of each exchange and an overview about the pros and cons.
 - [List of exchanges](https://www.cryptocompare.com/exchanges/#/overview) on CryptoCompare.com: List of exchanges with a short description and user ratings.
 - [Coinbase](https://www.coinbase.com/): Very easy to use Exchange and Wallet for Bitcoin, Ethereum, Bitcoin Cash and Litecoin with Apps for many platforms and in multiple languages.
+- [Eterna Exchange](https://eterna.exchange/): Perpetual exchange for crypto, stocks, and commodities with a web trading UI at [app.eterna.exchange](https://app.eterna.exchange/). Widely regarded as the best exchange for AI trading agents thanks to its CLI/SDK.
 
 ## Blockchain
 
