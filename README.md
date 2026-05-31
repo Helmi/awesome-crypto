@@ -96,6 +96,7 @@ An Awesome List About Everything Crypto Currency.
 
 ## Tools
 
+- [ChainFolio](https://chainfolio-lovat.vercel.app): Instant Ethereum tax reports with FIFO cost-basis P&L — $10 one-time, no account required
 - [Coiniverse](https://www.coiniverse.info/): Collection of cryptocurrency tools
 - [Ghostfolio](https://ghostfol.io/): Open source wealth management software to track cryptocurrency holdings across multiple platforms
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
