@@ -101,6 +101,7 @@ An Awesome List About Everything Crypto Currency.
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. hive's remote mcp server guide (https://hiveintelligence.xyz/crypto-mcp).
+- [Ezath](https://ezath.com) - Crypto trading signals (BTC/ETH/SOL) with a verifiable SHA-256 hash-chained track record, free plan, Auto-Trader, calculators, and an AI position analyzer.
 
 ## News
 
