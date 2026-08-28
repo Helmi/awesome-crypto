@@ -97,6 +97,7 @@ An Awesome List About Everything Crypto Currency.
 ## Tools
 
 - [Coiniverse](https://www.coiniverse.info/): Collection of cryptocurrency tools
+- [CryptoGainsCalc](https://cryptogainscalc.com): Free, browser-only crypto capital gains calculator using FIFO cost-basis matching, with optional US federal / Spanish IRPF tax estimates.
 - [Ghostfolio](https://ghostfol.io/): Open source wealth management software to track cryptocurrency holdings across multiple platforms
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
