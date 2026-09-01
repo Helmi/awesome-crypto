@@ -97,6 +97,7 @@ An Awesome List About Everything Crypto Currency.
 ## Tools
 
 - [Coiniverse](https://www.coiniverse.info/): Collection of cryptocurrency tools
+- [ChartCrypto](https://chartcrypto.app/): Free real-time cryptocurrency live chart dashboard — 760+ coins, converters, price predictions, technical indicators, backtesting and market scanner. No signup required.
 - [Ghostfolio](https://ghostfol.io/): Open source wealth management software to track cryptocurrency holdings across multiple platforms
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
