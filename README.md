@@ -129,6 +129,7 @@ An Awesome List About Everything Crypto Currency.
 
 - 📺  [BTCKYLE](https://www.youtube.com/user/kholzrpi/videos): YouTube Channel of BTCKYLE
 - 📺  [Quickfingers Luc](https://www.youtube.com/channel/UCbcxHiowf0TSNKn3xVpGTiQ): YouTube Channel of [Quickfingers Luc](https://steemit.com/@quickfingersluc) following an easy and simple trading method
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## License
 
