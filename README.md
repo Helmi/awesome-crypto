@@ -97,6 +97,7 @@ An Awesome List About Everything Crypto Currency.
 ## Tools
 
 - [Coiniverse](https://www.coiniverse.info/): Collection of cryptocurrency tools
+- [Deep Blue Alpha](https://deepbluealpha.io/): Free real-time Ethereum whale wallet tracker monitoring 20,000+ wallets with buy/sell classification, conviction scoring, net flow analysis, and a live leaderboard. No signup required.
 - [Ghostfolio](https://ghostfol.io/): Open source wealth management software to track cryptocurrency holdings across multiple platforms
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
