@@ -27,6 +27,7 @@ An Awesome List About Everything Crypto Currency.
 
 - 📺  [Cryptocurrencies](https://www.youtube.com/watch?v=g6iDZspbRMg):  Introduction in Cryptocurrency, Bitcoin and Blockchain in Last Week  Tonight with John Oliver on YouTube (25 min.)
 - [Upfolio](https://www.upfolio.com/): Visual crypto guides for beginners about Cryptocurrencies, blockchain, Bitcoin, Etherium with a good glossary.
+- [Crypto in Brief](https://cryptoinbrief.xyz/) - Illustrated cryptocurrency explainers with interactive browser labs for readers with no assumed background.
 - [Cryptocurrency tutorial](https://neufund.org/ecosystem/tutorial/#tutorial-header_) by Neufund:  Very short and simple beginner guide about how to buy, store, send and spend cryptocurrencies like Bitcoin and Ether with the Coinbase App. (5 min. read)
 - [How to Trade Cryptocurrency For Beginners](https://cryptocurrencyfacts.com/how-to-trade-cryptocurrency-for-beginners/) by CryptoCurrency Facts:  More detailed guide about how to start trading cryptocurrencies like Bitcoin, Litecoin, and Ethereum with Coinbase (10 min. read)
 - [The Total Beginner's Guide to Cryptocurrency Trading](https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/) by Trading Heroes: Very good introduction in how to get started with cryptocurrency trading. Understand how coins like like Bitcoin, Litecoin and Ether work and also understand the risks. (20 min. read)
