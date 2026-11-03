@@ -58,6 +58,8 @@ An Awesome List About Everything Crypto Currency.
 
 ### Single wallets
 
+- [Oath Wallet](https://oathwallet.org/) - Open-source iPhone and iPad wallet for balances, transaction history, sending and receiving cryptocurrency, and watch-only wallets.
+
 - [Bread](https://breadapp.com/): Bitcoin Wallet for iOS and Android.
 - [MyEtherWallet.com](https://www.myetherwallet.com/): Webinterface to generate a simple Ether Wallet.
 - [MetaMask](https://metamask.io/): MetaMask is a Chrome Browser Extension to manage an Ether Wallet
