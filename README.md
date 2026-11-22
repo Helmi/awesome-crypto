@@ -63,6 +63,7 @@ An Awesome List About Everything Crypto Currency.
 - [MetaMask](https://metamask.io/): MetaMask is a Chrome Browser Extension to manage an Ether Wallet
 - [Exodus](https://www.exodus.io/): A multi-asset desktop wallet for Windows, Mac and Linux with exchange integration.
 - [Blockchain](https://www.blockchain.com/):  popular online Bitcoin Wallet
+- [Terra Wallet](https://terrawallet.us/): Non-custodial multi-chain wallet for Android and Chromium browsers, supporting 14 networks including Bitcoin, Ethereum and Solana.
 
 ## Cryptocurrencies
 
